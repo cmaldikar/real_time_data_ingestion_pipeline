@@ -1,4 +1,4 @@
-# Real-Time Financial Data Pipeline  
+# Real-Time Financial Data Pipeline using Apache Kafka
 
 ## Description  
 This project implements a real-time data pipeline to capture, process, and analyze financial transaction data. By leveraging MySQL, Kafka, and Debezium, it streams database changes into Kafka topics and processes them for storage or analytics.  
